@@ -57,6 +57,10 @@ PORT=3000
 npm run dev
 ```
 
+```test
+npm test
+```
+
 El servidor se iniciará en `http://localhost:3000`.
 
 ## Endpoints
